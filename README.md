@@ -181,18 +181,19 @@ Você pode usar essas referências para aprofundar implementação específica d
 
 | Versão | Data | Alterações |
 |--------|------|-----------|
-| 1.0 | Março 2024 | ✅ Adoção NIST CSF 2.0 |
-| 2.1 | Dezembro 2024 | 🔧 Correções em referências de privacidade |
-| 2.0 | Janeiro 2022 | ➕ Adicionado NIST Privacy Framework |
-| 1.0 | Janeiro 2019 | 🚀 Lançamento inicial |
+| 2.2 | Junho - 2026 | 🔧 Atualização de Processos/Indicadores |
+| 2.1 | Dezembro - 2024 | 🔧 Correções em referências de privacidade |
+| 2.0 | Março - 2024 | ✅ Adoção NIST CSF 2.0 |
+| 1.5 | Janeiro - 2022 | ➕ Adicionado NIST Privacy Framework |
+| 1.0 | Janeiro - 2019 | 🚀 Lançamento inicial |
 
 ---
 
 ## 🔐 Segurança da Planilha
 
-- **Compartilhamento**: Mantenha cópia controlada; versione alterações
-- **Acesso**: Restrinja a pessoal de segurança/auditoria (considerações de confidencialidade)
-- **Backup**: Exporte relatórios regularmente em PDF para arquivo
+- **Compartilhamento**: Mantenha cópia controlada; versione alterações;
+- **Acesso**: Restrinja a pessoal de segurança/auditoria (considerações de confidencialidade);
+- **Backup**: Exporte relatórios regularmente em PDF para arquivo.
 
 ---
 
