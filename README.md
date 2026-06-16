@@ -59,7 +59,7 @@ NIST-CSF.xlsx
 ├── Introdução
 │   └── Instruções de uso e histórico de alterações
 ├── Níveis de Maturidade
-│   └── Definição dos 5 níveis e critérios
+│   └── Definição dos 4 níveis e critérios [CMMI]
 ├── NIST CSF - DASH
 │   └── Dashboard executivo com métricas de maturidade
 ├── CSF 2.0
