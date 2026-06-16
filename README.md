@@ -31,11 +31,10 @@ A planilha foi desenvolvida com **mais de uma década de experiência** em matur
 ### 3. **5 Níveis de Maturidade**
 | Nível | Escala | Descrição |
 |-------|--------|-----------|
-| **Inicial** | 0.00 - 1.49 | Básico, ad-hoc, não documentado; tecnologias limitadas |
-| **Gerenciado** | 1.50 - 2.49 | Capacidade parcial; processos em algumas unidades |
-| **Definido** | 2.50 - 3.49 | Implementado com tecnologia significativa |
-| **Quantitativamente Gerenciado** | 3.50 - 4.49 | Madura; processos consistentes; governança em vigor |
-| **Otimizado** | 4.50 - 5.00 | Avançada; tecnologia de ponta; monitoramento contínuo |
+| **Parcial** | 0.00 - 1.00 | A aplicação da estratégia de risco de segurança cibernética organizacional é gerenciada de forma ad hoc |
+| **Risco Informado** | 1.01 - 2.00 | As práticas de gerenciamento de riscos são aprovadas pela gerência, mas podem não ser estabelecidas como política para toda a organização |
+| **Repetível** | 2.01 - 3.00 | As práticas de gerenciamento de riscos da organização são formalmente aprovadas e expressas como política e processos |
+| **Adaptativo** | 3.01 - 4.00 | Há uma abordagem em toda a organização para gerenciar os riscos de segurança cibernética que usa políticas, processos e procedimentos informados sobre riscos para lidar com possíveis eventos de segurança cibernética |
 
 ### 4. **Dashboard Visual**
 Rastreamento automático com gráficos que mostram:
